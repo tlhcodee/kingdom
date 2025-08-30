@@ -1,1 +1,1 @@
-update: "Yeni bölüm: Ayrıştırıcı (Sezon 6)"
+updateState: "Yeni bölüm: Ayrıştırıcı (Sezon 6)"
