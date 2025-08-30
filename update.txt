@@ -1,1 +1,1 @@
-updateState: "Yeni bölüm: Ayrıştırıcı (Sezon 6) \n Türkçe altyazılı şekilde Sitemizde YAYINDA!"
+updateState: "Yeni bölüm: Ayrıştırıcı (Sezon 6)"
